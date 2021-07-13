@@ -2,8 +2,11 @@ body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-    color: rgb(119, 115, 115);
+    color: rgb(31, 11, 11);
     font-size: 2rem;
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1 {
@@ -12,7 +15,7 @@ h1 {
 
 .btn {
     background-color: rgb(238, 178, 14);
-    color: rgb(119, 115, 115);
+    color: rgb(31, 11, 11);
     border-radius: 16px;
     padding: 10px;
     font-weight: bold;
